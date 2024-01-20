@@ -1,0 +1,105 @@
+,candidate,cluster,interpretation,variables
+0,candidate_0,cluster_0,Moderately Positive,"['scaledgoldsteinscale', 'phl_host', 'mca11']"
+2,candidate_0,cluster_0,Weakly Negative,"['actorequivalentroles', 'mca8', 'mca37', 'mca39']"
+3,candidate_0,cluster_0,Weakly Positive,"['avgtone', 'mca2', 'mca4', 'mca9']"
+5,candidate_0,cluster_1,Weakly Negative,"['phl_host', 'mca1']"
+6,candidate_0,cluster_1,Weakly Positive,['actorequivalentroles']
+9,candidate_0,cluster_2,Weakly Negative,"['scaledgoldsteinscale', 'phl_host']"
+10,candidate_0,cluster_2,Weakly Positive,['actorequivalentroles']
+12,candidate_0,cluster_3,Weakly Negative,"['phl_host', 'mca4']"
+13,candidate_0,cluster_4,Moderately Negative,['mca11']
+14,candidate_0,cluster_4,Moderately Positive,"['phl_host', 'mca37']"
+16,candidate_0,cluster_4,Strongly Negative,['scaledgoldsteinscale']
+17,candidate_0,cluster_4,Weakly Negative,"['avgtone', 'actorequivalentroles', 'mca2', 'mca4', 'mca15', 'mca34']"
+18,candidate_0,cluster_4,Weakly Positive,"['mca0', 'mca1', 'mca8', 'mca14', 'mca33', 'mca39']"
+19,candidate_0,cluster_5,Moderately Negative,['phl_host']
+20,candidate_0,cluster_5,Moderately Positive,['actorequivalentroles']
+22,candidate_0,cluster_5,Weakly Negative,"['mca0', 'mca1']"
+23,candidate_0,cluster_5,Weakly Positive,"['scaledgoldsteinscale', 'mca4']"
+24,candidate_0,cluster_6,Moderately Positive,['actorequivalentroles']
+26,candidate_0,cluster_6,Weakly Negative,"['mca0', 'mca1']"
+27,candidate_0,cluster_6,Weakly Positive,['scaledgoldsteinscale']
+29,candidate_0,cluster_7,Weakly Negative,['mca1']
+30,candidate_0,cluster_7,Weakly Positive,['actorequivalentroles']
+31,candidate_0,cluster_8,Moderately Negative,['phl_host']
+33,candidate_0,cluster_8,Weakly Negative,['mca37']
+34,candidate_0,cluster_8,Weakly Positive,"['scaledgoldsteinscale', 'mca11']"
+36,candidate_0,cluster_9,Weakly Negative,"['scaledgoldsteinscale', 'phl_host']"
+37,candidate_1,cluster_0,Moderately Positive,"['scaledgoldsteinscale', 'phl_host', 'mca11']"
+39,candidate_1,cluster_0,Weakly Negative,"['actorequivalentroles', 'mca8', 'mca37', 'mca39']"
+40,candidate_1,cluster_0,Weakly Positive,"['avgtone', 'mca2', 'mca4', 'mca9']"
+42,candidate_1,cluster_1,Weakly Negative,"['phl_host', 'mca1']"
+43,candidate_1,cluster_1,Weakly Positive,['actorequivalentroles']
+44,candidate_1,cluster_1,Moderately Negative,['phl_host']
+46,candidate_1,cluster_1,Weakly Negative,['mca37']
+47,candidate_1,cluster_1,Weakly Positive,"['scaledgoldsteinscale', 'mca11']"
+50,candidate_1,cluster_2,Weakly Negative,"['scaledgoldsteinscale', 'phl_host']"
+51,candidate_1,cluster_2,Weakly Positive,['actorequivalentroles']
+53,candidate_1,cluster_3,Weakly Negative,"['phl_host', 'mca4']"
+54,candidate_1,cluster_4,Moderately Negative,['mca11']
+55,candidate_1,cluster_4,Moderately Positive,"['phl_host', 'mca37']"
+57,candidate_1,cluster_4,Strongly Negative,['scaledgoldsteinscale']
+58,candidate_1,cluster_4,Weakly Negative,"['avgtone', 'actorequivalentroles', 'mca4', 'mca15', 'mca34']"
+59,candidate_1,cluster_4,Weakly Positive,"['mca0', 'mca1', 'mca8', 'mca14', 'mca33', 'mca39']"
+60,candidate_1,cluster_5,Moderately Negative,['phl_host']
+61,candidate_1,cluster_5,Moderately Positive,['actorequivalentroles']
+63,candidate_1,cluster_5,Weakly Negative,"['mca0', 'mca1']"
+64,candidate_1,cluster_5,Weakly Positive,"['scaledgoldsteinscale', 'mca4']"
+65,candidate_1,cluster_6,Moderately Positive,['actorequivalentroles']
+67,candidate_1,cluster_6,Weakly Negative,"['mca0', 'mca1']"
+68,candidate_1,cluster_6,Weakly Positive,['scaledgoldsteinscale']
+71,candidate_1,cluster_8,Weakly Negative,"['scaledgoldsteinscale', 'phl_host']"
+73,candidate_1,cluster_9,Weakly Negative,['mca1']
+74,candidate_1,cluster_9,Weakly Positive,['actorequivalentroles']
+75,candidate_2,cluster_0,Moderately Negative,['phl_host']
+76,candidate_2,cluster_0,Moderately Positive,['actorequivalentroles']
+78,candidate_2,cluster_0,Weakly Negative,"['mca0', 'mca1']"
+79,candidate_2,cluster_0,Weakly Positive,"['scaledgoldsteinscale', 'mca4']"
+80,candidate_2,cluster_1,Moderately Positive,"['scaledgoldsteinscale', 'phl_host', 'mca11']"
+82,candidate_2,cluster_1,Weakly Negative,"['actorequivalentroles', 'mca8', 'mca37']"
+83,candidate_2,cluster_1,Weakly Positive,"['avgtone', 'mca2', 'mca4', 'mca9']"
+85,candidate_2,cluster_1,Weakly Negative,"['scaledgoldsteinscale', 'phl_host']"
+87,candidate_2,cluster_1,Weakly Negative,['mca1']
+88,candidate_2,cluster_1,Weakly Positive,['actorequivalentroles']
+92,candidate_2,cluster_2,Weakly Negative,"['phl_host', 'mca1']"
+93,candidate_2,cluster_2,Weakly Positive,['actorequivalentroles']
+95,candidate_2,cluster_3,Weakly Negative,['scaledgoldsteinscale']
+96,candidate_2,cluster_3,Weakly Positive,['actorequivalentroles']
+98,candidate_2,cluster_4,Weakly Negative,"['phl_host', 'mca4']"
+99,candidate_2,cluster_5,Moderately Negative,['mca11']
+100,candidate_2,cluster_5,Moderately Positive,"['phl_host', 'mca37']"
+102,candidate_2,cluster_5,Strongly Negative,['scaledgoldsteinscale']
+103,candidate_2,cluster_5,Weakly Negative,"['avgtone', 'actorequivalentroles', 'mca4']"
+104,candidate_2,cluster_5,Weakly Positive,"['mca0', 'mca1', 'mca8', 'mca14']"
+105,candidate_2,cluster_6,Moderately Positive,['actorequivalentroles']
+107,candidate_2,cluster_6,Weakly Negative,"['mca0', 'mca1']"
+108,candidate_2,cluster_6,Weakly Positive,['scaledgoldsteinscale']
+109,candidate_2,cluster_7,Moderately Negative,['phl_host']
+111,candidate_2,cluster_7,Weakly Negative,['mca37']
+112,candidate_2,cluster_7,Weakly Positive,"['scaledgoldsteinscale', 'mca11']"
+115,candidate_3,cluster_0,Moderately Positive,['actorequivalentroles']
+117,candidate_3,cluster_0,Weakly Negative,"['phl_host', 'mca0', 'mca1']"
+118,candidate_3,cluster_0,Weakly Positive,"['scaledgoldsteinscale', 'mca4']"
+119,candidate_3,cluster_1,Moderately Positive,"['scaledgoldsteinscale', 'phl_host']"
+121,candidate_3,cluster_1,Weakly Negative,"['actorequivalentroles', 'mca8', 'mca37']"
+122,candidate_3,cluster_1,Weakly Positive,"['avgtone', 'mca2', 'mca4', 'mca9', 'mca11']"
+124,candidate_3,cluster_1,Weakly Negative,['mca1']
+125,candidate_3,cluster_1,Weakly Positive,['actorequivalentroles']
+127,candidate_3,cluster_1,Weakly Negative,"['mca33', 'mca34']"
+128,candidate_3,cluster_1,Weakly Positive,"['mca14', 'mca15']"
+131,candidate_3,cluster_2,Weakly Negative,"['phl_host', 'mca1']"
+132,candidate_3,cluster_2,Weakly Positive,['actorequivalentroles']
+134,candidate_3,cluster_3,Weakly Negative,['scaledgoldsteinscale']
+135,candidate_3,cluster_3,Weakly Positive,['actorequivalentroles']
+137,candidate_3,cluster_4,Weakly Negative,"['phl_host', 'mca4']"
+138,candidate_3,cluster_5,Moderately Negative,['mca11']
+139,candidate_3,cluster_5,Moderately Positive,"['phl_host', 'mca37']"
+141,candidate_3,cluster_5,Strongly Negative,['scaledgoldsteinscale']
+142,candidate_3,cluster_5,Weakly Negative,"['avgtone', 'actorequivalentroles', 'mca4']"
+143,candidate_3,cluster_5,Weakly Positive,"['mca0', 'mca1', 'mca8', 'mca14']"
+144,candidate_3,cluster_6,Moderately Positive,['actorequivalentroles']
+146,candidate_3,cluster_6,Weakly Negative,"['mca0', 'mca1']"
+147,candidate_3,cluster_6,Weakly Positive,['scaledgoldsteinscale']
+148,candidate_3,cluster_7,Moderately Negative,['phl_host']
+150,candidate_3,cluster_7,Weakly Positive,"['scaledgoldsteinscale', 'mca11']"
+153,candidate_3,cluster_9,Weakly Negative,"['scaledgoldsteinscale', 'phl_host']"
